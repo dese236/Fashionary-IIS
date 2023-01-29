@@ -1,0 +1,99 @@
+// Font awesome
+
+
+// Setup
+@import "./setup/variables.scss";
+@import "./setup/functions.scss";
+@import "./setup/mixins.scss";
+@import "./setup/typography.scss";
+
+// Basics
+@import "./basics/base.scss";
+@import "./basics/helpers.scss";
+@import "./basics/layout.scss";
+@import "./basics/buttons.scss";
+
+//Main
+// @import "./pages/app.scss";
+
+// PAGES
+// @import "./pages/homepage.scss";
+// @import "./pages/home.scss";
+
+
+
+// CMPS
+@import "cmps/navbar.scss";
+@import "cmps/home.scss";
+@import "cmps/imglist.scss";
+@import "cmps/image-card.scss";
+@import "cmps/pop-over";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// // CardPreview
+// @import "cmps/card-preview/card-preview.scss";
+// @import "cmps/card-preview/card-preview-edit.scss";
+// @import "cmps/card-preview/card-preview-labels.scss";
+// @import "cmps/card-preview/card-preview-date.scss";
+// @import "cmps/card-preview/card-preview-comments.scss";
+// @import "cmps/card-preview/card-preview-checklist.scss";
+
+// // CardDetails
+// @import "cmps/card-details/card-description.scss";
+// @import "cmps/card-details/card-details-labels";
+// @import "cmps/card-details/card-details-members.scss";
+// @import "cmps/card-details/card-details-date.scss";
+// @import "cmps/card-details/card-details-actions.scss";
+// @import "cmps/card-details/checklist-preview.scss";
+// @import "cmps/card-details/todo-list.scss";
+// @import "cmps/card-details/todo-preview.scss";
+// @import "cmps/card-details/todo-add.scss";
+// @import "cmps/card-details/progress-bar.scss";
+// @import "cmps/card-details/card-details-cover.scss";
+// @import "cmps/card-details//card-attachments.scss";
+// @import "cmps/card-details/comment-add.scss";
+// @import "cmps/card-details/card-activities.scss";
+
+// // Popovers
+// @import "cmps/pop-overs/pop-over";
+// @import "cmps/pop-overs/edit-pop-over";
+// @import "cmps/pop-overs/profile-pop-over";
+// @import "cmps/pop-overs/labels-pop-over";
+// @import "cmps/pop-overs/members-pop-over";
+// @import "cmps/pop-overs/date-pop-over";
+// @import "cmps/pop-overs/checklist-pop-over";
+// @import "cmps/pop-overs/attach-pop-over";
+// @import "cmps/pop-overs/cover-pop-over";
+// @import "cmps/pop-overs/move-pop-over";
+// @import "cmps/pop-overs/list-menu";
+// @import "cmps/pop-overs/invite-pop-over";
+// @import "cmps/pop-overs/menu-pop-over.scss";
+// @import "cmps/pop-overs/background-pop-over";
+// @import "cmps/pop-overs/archive-pop-over";
+// @import "cmps/pop-overs/activity-pop-over";
+// @import "cmps/pop-overs/board-filter-pop-over";
+// @import "cmps/pop-overs/create-board-pop-over";
+// @import "cmps/pop-overs/misc-popovers";
+
